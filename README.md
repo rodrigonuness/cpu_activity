@@ -2,4 +2,5 @@
 ## cpu_activity 
 ### This JavaScript code returns after executing the CPU percentage, the used memory space and the total memory space
 ### 
-####
+#### os-utils: https://www.npmjs.com/package/os-utils
+#### diskspace: https://www.npmjs.com/package/diskspace
